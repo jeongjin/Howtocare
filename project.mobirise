@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "\b상처어때(HowtoCare)",
-    "currentPage": "Privacy_Police.html",
+    "currentPage": "Privacy.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -1090,7 +1090,7 @@
         }
       ]
     },
-    "Privacy_Police.html": {
+    "Privacy.html": {
       "settings": {
         "title": "개인정보처리방침",
         "meta_descr": "우리아이 상처는 괜찮을까? 상처어때는 인공지능 상처분류 시스템으로 정확하게 상처의 종류를 분석합니다. 데일리 상처 케어 프로그램으로 상처를 손쉽게 관리할 수 있습니다.",
